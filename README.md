@@ -3,6 +3,10 @@ Backend developer currently studying computer science @ UCL in Odense, Denmark.
 
 My current side-project is a fitness tracker called [STRONGR](https://stron.gr). Made in Vue.js/Node.js/MySQL. 
 
+<!-- Working in languages:
+    JavaScript, Java, C#, Python, C
+And Other stuff:
+    MySQL, MS SQL, REST API, Kernel Programming, --!>
 
 ### Useful Links
 * [LinkedIn](https://www.linkedin.com/in/tobias-b%C3%B8gvad-nielsen-392234151/)
