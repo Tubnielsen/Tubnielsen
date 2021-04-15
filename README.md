@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi! I am Tobias 👋
+Backend developer currently studying computer science @ UCL in Odense, Denmark.
+
+My current side-project is a fitness tracker called [STRONGR](https://stron.gr). Made in Vue.js/Node.js/MySQL. 
+
+
+### Useful Links
+* [LinkedIn](https://www.linkedin.com/in/tobias-b%C3%B8gvad-nielsen-392234151/)
+* [GitLab](https://gitlab.com/Tubnielsen)
+* 
+
 
 <!--
 **Tubnielsen/Tubnielsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
