@@ -7,7 +7,6 @@ My current side-project is a fitness tracker called [STRONGR](https://stron.gr).
 ### Useful Links
 * [LinkedIn](https://www.linkedin.com/in/tobias-b%C3%B8gvad-nielsen-392234151/)
 * [GitLab](https://gitlab.com/Tubnielsen)
-* 
 
 
 <!--
