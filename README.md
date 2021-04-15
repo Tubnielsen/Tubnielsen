@@ -1,4 +1,4 @@
-### Hi! I am Tobias 👋
+### Hi I'm Tobias 👋
 Backend developer currently studying computer science @ UCL in Odense, Denmark.
 
 My current side-project is a fitness tracker called [STRONGR](https://stron.gr). Made in Vue.js/Node.js/MySQL. 
