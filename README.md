@@ -1,7 +1,7 @@
 ### Hi I'm Tobias 👋
 Backend developer currently studying computer science @ UCL in Odense, Denmark.
 
-Currently working as a System consultant/developer, working on POS-systems and Ecommerce solutions in Pascal.
+Currently working as a System consultant/developer, working on ERP-systems and Ecommerce solutions in Pascal.
 
 My current side-project is a fitness tracker called [STRONGR](https://stron.gr). Made in Vue.js/Node.js/MySQL. 
 
