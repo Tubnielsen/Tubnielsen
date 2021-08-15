@@ -17,6 +17,7 @@ My current side-project is a fitness tracker called [STRONGR](https://stron.gr).
 <img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&style=for-the-badge&link=https://github.com/Tubnielsen?tab=repositories&q=&type=&language=csharp&sort=" alt="CSharp logo" title="C#" height="28" /> &nbsp;
 <img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&style=for-the-badge&link=https://github.com/Tubnielsen?tab=repositories&q=&type=&language=csharp&sort=" alt=".NET logo" title=".NET" height="28" /> &nbsp;
 <img src="https://img.shields.io/badge/Pascal-282C34?logo=pascal&style=for-the-badge&link=https://github.com/Tubnielsen?tab=repositories&q=&type=&language=pascal&sort=" alt="Pascal logo" title="Pascal" height="28" /> &nbsp;
+<img src="https://img.shields.io/badge/ElevateDB-282C34?logo=ElevateDB&style=for-the-badge&link=https://github.com/Tubnielsen?tab=repositories&q=&type=&language=SQL:2003&sort=" alt="ElevateDB logo" title="ElevateDB / SQL:2003" height="28" /> &nbsp;
 
 #### Other stuff i know.
 <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=linux&type=&language=&sort=" alt="Linux logo" title="Linux" height="28" /> &nbsp;
