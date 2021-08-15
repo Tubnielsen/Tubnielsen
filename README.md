@@ -13,9 +13,12 @@ My current side-project is a fitness tracker called [STRONGR](https://stron.gr).
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&style=for-the-badge&link=https://github.com/Tubnielsen?tab=repositories&q=&type=&language=javascript&sort=" alt="Express.js logo" title="Express.js" height="28" /> &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&style=for-the-badge&link=https://github.com/Tubnielsen?tab=repositories&q=mongodb&type=&language=&sort=" alt="MongoDB logo" title="MongoDB" height="28" /> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=mysql&type=&language=&sort=" alt="MySQL logo" title="MySQL" height="28" /> &nbsp;
-<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=linux&type=&language=&sort=" alt="Linux logo" title="Linux" height="28" /> &nbsp;
 <img src="https://img.shields.io/badge/PHP-282C34?logo=php&style=for-the-badge&link=https://github.com/Tubnielsen?tab=repositories&q=&type=&language=php&sort=" alt="PHP logo" title="PHP" height="28" /> &nbsp;
-<img src="https://img.shields.io/badge/C#-282C34?logo=csharp&style=for-the-badge&link=https://github.com/Tubnielsen?tab=repositories&q=&type=&language=csharp&sort=" alt="CSharp logo" title="C#" height="28" /> &nbsp;
+<img src="https://img.shields.io/badge/CSharp-282C34?logo=csharp&style=for-the-badge&link=https://github.com/Tubnielsen?tab=repositories&q=&type=&language=csharp&sort=" alt="CSharp logo" title="C#" height="28" /> &nbsp;
+
+#### Other stuff i know.
+<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=linux&type=&language=&sort=" alt="Linux logo" title="Linux" height="28" /> &nbsp;
+<img src="https://img.shields.io/badge/C-282C34?logo=C&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=c&type=&language=&sort=" alt="C logo" title="Linux" height="28" /> &nbsp;
 
 
 ### Useful Links
