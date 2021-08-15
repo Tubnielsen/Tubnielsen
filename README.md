@@ -18,7 +18,9 @@ My current side-project is a fitness tracker called [STRONGR](https://stron.gr).
 
 #### Other stuff i know.
 <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=linux&type=&language=&sort=" alt="Linux logo" title="Linux" height="28" /> &nbsp;
-<img src="https://img.shields.io/badge/C-282C34?logo=C&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=c&type=&language=&sort=" alt="C logo" title="Linux" height="28" /> &nbsp;
+<img src="https://img.shields.io/badge/C-282C34?logo=C&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=c&type=&language=&sort=" alt="C logo" title="C language" height="28" /> &nbsp;
+<img src="https://img.shields.io/badge/Python-282C34?logo=python&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=python&type=&language=&sort=" alt="Python logo" title="Python" height="28" /> &nbsp;
+<img src="https://img.shields.io/badge/Assembly-282C34?logo=assembly&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=assembly&type=&language=&sort=" alt="Assembly logo" title="Assembly" height="28" /> &nbsp;
 
 
 ### Useful Links
