@@ -1,7 +1,7 @@
 ## Hi I'm Tobias 👋
 Backend developer currently studying computer science @ UCL in Odense, Denmark.
 
-Currently working @ [JITS Aps](https://jit.nu) as a System consultant in Eccmmerce and ERP systems.
+Currently working @ [JITS Aps](https://jit.nu) as a System consultant in Ecommerce and ERP systems.
 
 My current side-project is a fitness tracker called [STRONGR](https://stron.gr). Made in Nuxt.js/Express/MongoDB. 
 
@@ -21,6 +21,7 @@ My current side-project is a fitness tracker called [STRONGR](https://stron.gr).
 <img src="https://img.shields.io/badge/C-282C34?logo=C&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=c&type=&language=&sort=" alt="C logo" title="C language" height="28" /> &nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=python&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=python&type=&language=&sort=" alt="Python logo" title="Python" height="28" /> &nbsp;
 <img src="https://img.shields.io/badge/Assembly-282C34?logo=assembly&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=assembly&type=&language=&sort=" alt="Assembly logo" title="Assembly" height="28" /> &nbsp;
+<img src="https://img.shields.io/badge/Java-282C34?logo=Java&style=for-the-badge&logoColor=white&link=https://github.com/Tubnielsen?tab=repositories&q=Java&type=&language=&sort=" alt="Java logo" title="Java" height="28" /> &nbsp;
 
 
 ### Useful Links
