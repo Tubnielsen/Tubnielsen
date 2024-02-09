@@ -1,5 +1,5 @@
 ## Hi I'm Tobias 👋
-Backend developer currently studying computer science @ UCL in Odense, Denmark.
+Backend developer
 
 Currently working @ [JITS Aps](https://jit.nu) as a System consultant in Ecommerce and ERP systems.
 
