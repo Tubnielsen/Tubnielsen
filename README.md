@@ -1,9 +1,7 @@
 ## Hi I'm Tobias 👋
-Backend developer
+Software developer
 
-Currently working @ [JITS Aps](https://jit.nu) as a System consultant in Ecommerce and ERP systems.
-
-My current side-project is a fitness tracker called [STRONGR](https://stron.gr). Made in Nuxt.js/Express/MongoDB. 
+Currently studying software engineering at University of Southern Denmark.
 
 
 ### Currently working with:
